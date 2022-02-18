@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\temp\vs\Project1\Project1\main.cpp(134,36): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\temp\vs\Project1\Project1\main.cpp(139,36): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\temp\vs\Project1\Project1\main.cpp(143,36): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\temp\vs\Project1\Project1\main.cpp(147,36): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\temp\vs\Project1\Project1\main.cpp(151,36): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\temp\vs\Project1\Project1\main.cpp(155,36): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\temp\vs\Project1\Project1\main.cpp(175,45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\temp\vs\Project1\Project1\main.cpp(206,13): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(234,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(235,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(236,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(241,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(242,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(243,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(248,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(249,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(250,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(255,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(256,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(257,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(262,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(263,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(264,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(284,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(285,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\temp\vs\Project1\Project1\main.cpp(286,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\temp\vs\Project1\x64\Debug\Project1.exe

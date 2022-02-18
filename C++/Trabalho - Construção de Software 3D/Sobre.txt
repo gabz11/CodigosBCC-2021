@@ -1,0 +1,1 @@
+OBS: O projeto está numa solução de Visual Studio e requer certas bibliotecas instaladas. 

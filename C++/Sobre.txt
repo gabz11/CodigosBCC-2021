@@ -1,0 +1,2 @@
+Tivemos uma breve abordagem de C++ para a disciplina de construção de software gráfico pelo prof. Luis Antonio Pavão entretanto utilizamos a linguagem
+ apenas para Open-Gl utilizando as livrárias freeglut e mingw para aplicar conceitos de algebra linear e software gráfico.
