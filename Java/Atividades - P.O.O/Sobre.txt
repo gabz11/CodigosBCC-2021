@@ -1,0 +1,1 @@
+Exemplos contem vários "esboços", na sua maioria era para práticar conceitos de P.O.O durante as aulas (e as vezes são meio bizarros e abstratos). 
