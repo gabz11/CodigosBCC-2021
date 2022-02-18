@@ -1,0 +1,13 @@
+#######################################################
+# Gabriel Antonio Gomes de Farias - PUC-PR - BCC@2021 #     
+#######################################################
+
+Códigos do 1@ ano de BCC de 2021, a maioria foi em Java e Python,
+tivemos linguagens de cena como POV-Ray e utilizamos C++ para usar Open-Gl para software gráfico,
+está faltando muitas entregas que foram para o limbo dps de serem enviadas e deletadas do pc rs.
+
+Agradeço muito ao meus colegas por terem feito um ano tão pesado como 2021 bem mais leve 
+e a os meus professores pelo conhecimento e todo o suporte providenciado durante o ano! 
+
+
+ 
