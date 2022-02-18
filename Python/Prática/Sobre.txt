@@ -1,0 +1,1 @@
+Códigos que eu fiz para praticar Python, a maioria fiz seguindo a 1ra edição de "Curso de Intensivo de Python" por Eric Matthes.
