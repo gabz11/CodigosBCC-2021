@@ -1,0 +1,1 @@
+Animação aplicando conceitos gráficos na linguagem de descrição de cena POV-Ray.
