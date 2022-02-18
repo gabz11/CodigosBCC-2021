@@ -1,0 +1,7 @@
+Os trabalhos do 1ro semestre da disciplina de raciocínio algorítmico realizados em equipe
+
+TDE 1: Lista geral de exercícios para praticar os fundamentos de programação 
+
+TDE 2: Uma "sistema bancário", trabalho feito com maior profundidade para demonstrar tratamento e processamento de entrada
+
+TDE 3: Simulação de alocação de memória, um trabalho cujo envolvia fortes conceitos de listas e processamento de dados.  
