@@ -1,2 +1,0 @@
-Na disciplina de lógica tivemos uma única atividade para implementação de uma tabela verdade em Java com defesa de autória, 
-esse trabalho foi feito em um grupo grande mas como era extremamente simples apenas alguns integrantes se empolgaram e terminamos rapidamente rs.
